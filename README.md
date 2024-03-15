@@ -2,6 +2,8 @@
 
 SouthGreen interactive staff info page. https://southgreenplatform.github.io/staff-info/
 
+<img src="assets/example.png" width="600" height="400" />
+
 ---------------------------
 
 ## Table of Contents
