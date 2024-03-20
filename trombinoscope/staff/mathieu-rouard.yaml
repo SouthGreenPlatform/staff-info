@@ -1,0 +1,33 @@
+---
+staffname: Mathieu Rouard
+type: staff
+bio:
+  Research scientist in Bioinformatics, part of SG sterring comittee
+  I am involved in genome analyses and contribute to related
+  web resources development. Strong focus on banana and genetic diversity.
+
+active: true
+email: m.rouard@cgiar.org
+phone: xxx-xxx xx xx
+city:
+  - Montpellier
+workplace: Alliance Bioversity and CIAT
+affiliation: Bioversity International - UMR AGAP
+facility: South Green
+category: 
+- genomics
+- software
+- management
+homepage:https://www.linkedin.com/in/mrouard
+bibtex: rouard.bib
+orcid: 0000-0003-0284-1885
+image: Mathieu_rouard.jpg
+keywords:
+  - Genome Hubs
+  - Banana Genomes
+  - Orthology
+  - Gene families
+  - rnaseq
+  - Gigwa
+  - Interoperability
+role: Comité de pilotage
