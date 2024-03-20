@@ -13,14 +13,14 @@ city:
   - Montpellier
 workplace: Alliance Bioversity and CIAT
 affiliation: Bioversity International - UMR AGAP
-facility: South Green
+facility: SouthGreen
 category: 
 - genomics
 - software
 - management
-bibtex: rouard.bib
+bibtex: mathieu-rouard.bib
 orcid: 0000-0003-0284-1885
-image: Mathieu_rouard.jpg
+image: mathieu-rouard.jpg
 keywords:
   - Genome Hubs
   - Banana Genomes
