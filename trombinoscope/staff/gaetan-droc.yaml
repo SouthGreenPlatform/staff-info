@@ -1,0 +1,48 @@
+ 
+--- 
+staffname: Gaetan Droc
+
+type: staff 
+
+active: true
+
+email: gaetan.droc@cirad.fr
+
+phone: xxx-xxx xx xx
+
+city:
+  - Montpellier
+  
+workplace: AGAP Unit
+
+affiliation: CIRAD
+
+facility: SouthGreen
+
+category: 
+  - development
+  - software
+  - annotation
+  - genomics
+  - management
+ 
+bibtex: gaetan-droc.bib
+
+orcid: 0000-0003-1849-1269
+
+image: gaetan-droc.png
+
+keywords:
+  - genome annotation
+  - comparative genomics
+  - snakemake
+  - reproductible research
+  - postgreql
+  - web developpment
+  
+role: Bioinformatician
+
+bio:
+  Research engineer in Bioinformatics, part of SouthGreen sterring comittee. 
+  My work involves NGS data analysis, including genome assembly, genome annotation, comparative genomics, methylation analysis, and Cut&Tag, using Snakemake.
+  I actively participate in the development Genomes Hub through the integration of omics data such as banana, rice, sugarcane, vanilla, coffea, cocoa. 
