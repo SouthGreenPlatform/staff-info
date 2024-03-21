@@ -38,7 +38,7 @@ Entries are located in the `trombinoscope` folder.
 
 In order to add yourself to the staff pages create a file
 `firstname-lastname.yaml` in the `trombinoscope/staff` and add your information.
-Use the`trombinoscope/staff/TEMPLATE.yaml` file as a starting point and look at the existing YAML
+Use the `trombinoscope/staff/TEMPLATE.yaml` file as a starting point and look at the existing YAML
 files to see how you may fill it out.
 
 * Note that you can use markdown syntax for the `bio:` entry, e.g. for links.
@@ -108,4 +108,4 @@ repository](https://github.com/southgreenplatform/staff-info/issues)
 
 ## Acknowledgement
 
-This work is based on [staff-finder](https://github.com/NBISweden/staff-finder) developed by (NBIS)[https://nbis.se].
+This work is based on [staff-finder](https://github.com/NBISweden/staff-finder) developed by [NBIS](https://nbis.se).
