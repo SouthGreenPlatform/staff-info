@@ -1,0 +1,48 @@
+---
+staffname: Valentin Guignon
+type: staff
+active: true
+email: v.guignon@cgiar.org
+phone: 0434352433 ext. 204
+city:
+  - Montpellier
+workplace: Alliance Bioversity and CIAT
+affiliation: Bioversity International - UMR AGAP
+facility: SouthGreen
+category:
+- software
+- development
+- genomics
+homepage: https://fr.linkedin.com/in/valentin-guignon
+orcid: 0000-0003-0903-6811
+image: valentin-guignon.jpg
+keywords:
+  - BrAPI
+  - Gigwa
+  - MGIS
+  - Genome Hubs
+  - GreenPhyl
+  - Banana
+  - Orthology
+  - Gene families
+  - Interoperability
+  - Git
+  - Tripal
+  - Drupal
+  - CMS
+  - PostgreSQL
+  - PHP
+  - Javascript
+  - Perl
+  - Python
+  - Java
+  - nodejs
+  - algorithm
+  - pipeline
+role: Bioinformatician
+bio:
+  I work at The Alliance (CGIAR) as associate scientist on multiple projects
+  (BrAPI, Gigwa, MGIS, Banana Genome Hub, GenoRing, GreenPhyl, Tripal,...). I am
+  currently part of the Tripal Advisory Committee and the BrAPI Advisory Board.
+  I have strong knowledge in databases and web development with an expertise on
+  the Drupal CMS. I design algorithms, methodologies and software.
