@@ -47,7 +47,7 @@ facility: SouthGreen
 # proteomics, software, statistics, structure, systems biology,
 # dataservices, administration
 #
-category: 
+category:
   - development
   - annotation
   - dataservices
@@ -91,11 +91,11 @@ bio:
   Institute for Sustainable Development. He is member of the DIADE Unit in
   Montpellier. His main research interests are Data integration, Semantic Web,
   plant-ontologies, semantic data linking, Knowledge management and Big Data
-  for plant genomics. He obtained PhD in Informatics from the university of 
+  for plant genomics. He obtained PhD in Informatics from the university of
   Montpellier in 2007 (about federated plant data integration approaches
   applied to agronomy) and recently obtained the habilitation to conduct
-  research supervision (HDR) in 2020. He coordinated the Oryza Tag Line 
+  research supervision (HDR) in 2020. He coordinated the Oryza Tag Line
   phenotypic rice mutant database and was involved in the OrygenesDB T-DNA rice
   database. Pierre Larmande is the lead PI of the Agronomic Linked Data project
   (AgroLD), which is a Knowledge Graph database that consists of data
-  integrated from a variety of plant resources and ontologies. 
+  integrated from a variety of plant resources and ontologies.
