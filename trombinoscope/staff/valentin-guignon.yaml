@@ -10,9 +10,9 @@ workplace: Alliance Bioversity and CIAT
 affiliation: Bioversity International - UMR AGAP
 facility: SouthGreen
 category:
-- software
-- development
-- genomics
+  - software
+  - development
+  - genomics
 homepage: https://fr.linkedin.com/in/valentin-guignon
 orcid: 0000-0003-0903-6811
 image: valentin-guignon.jpg

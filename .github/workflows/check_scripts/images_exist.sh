@@ -12,9 +12,9 @@ awk '/^[[:blank:]]*image: / {
         if [[ $ymlfile == *TEMPLATE* ]]; then
             continue
         fi
+        imgfile=$(tr -dc '[[:print:]]' <<< "$imgfile") # remove non printable character
         if [ ! -e "$imgfile" ]; then
-            printf '%s (from %s) does not exist\n' \
-		    "$imgfile" "$ymlfile" >&2
+            echo  "Achtung: $imgfile (from $ymlfile) does not exist\n" >&2
             success=false
         fi
     done

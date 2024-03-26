@@ -15,7 +15,6 @@ def validate_category(d,f):
 
 def check_bibtex_file(d, f):
     p = pathlib.Path(f).parent.parent / 'publication'
-    print(p)
     if 'bibtex' in d and d['bibtex']:
         return (p / d['bibtex']).exists()
     return True
@@ -31,12 +30,17 @@ def validate_orcid(d, f):
 
 def validate_url(d, f):
     regex = re.compile(r'^https?://')
-    try:
-        if re.search(regex, d['homepage']):
-            return False
-    except Exception:
+    if 'homepage' in d.keys():
+        if d['homepage'] is not None:
+            if re.search(regex, d['homepage']):
+                return True
+            else: # case value do not follow specification
+                return False
+        else: # case no value provided for homepage tag
+            return True
+    else: # case no homepage tag
         return True
-    return True
+    
 
 
 

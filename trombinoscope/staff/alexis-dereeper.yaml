@@ -38,7 +38,7 @@ workplace: IRD Montpellier
 #
 affiliation: IRD
 #
-# The SouthGreen facility that you are part of. 
+# The SouthGreen facility that you are part of.
 #
 facility: SouthGreen
 #
@@ -47,7 +47,7 @@ facility: SouthGreen
 # proteomics, software, statistics, structure, systems biology,
 # dataservices, administration
 #
-category: 
+category:
   - development
   - pathogen genomics
   - plant genomics
@@ -78,7 +78,7 @@ keywords:
   - perl
   - python
   - rnaseq
-  - variants 
+  - variants
   - SNP
 #
 # "role:" is the role that you play within your infrastructure.
