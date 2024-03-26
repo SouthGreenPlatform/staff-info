@@ -10,9 +10,9 @@ workplace: Alliance Bioversity and CIAT
 affiliation: Bioversity International - UMR AGAP
 facility: SouthGreen
 category:
-- software
-- development
-- genomics
+  - software
+  - development
+  - genomics
 homepage: https://fr.linkedin.com/in/valentin-guignon
 orcid: 0000-0003-0903-6811
 image: valentin-guignon.jpg
@@ -46,3 +46,4 @@ bio:
   currently part of the Tripal Advisory Committee and the BrAPI Advisory Board.
   I have strong knowledge in databases and web development with an expertise on
   the Drupal CMS. I design algorithms, methodologies and software.
+  
