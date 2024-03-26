@@ -1,5 +1,4 @@
- 
---- 
+---
 staffname: Gaetan Droc
 
 type: staff
@@ -19,7 +18,7 @@ affiliation: CIRAD
 
 facility: SouthGreen
 
-category: 
+category:
   - development
   - software
   - annotation
