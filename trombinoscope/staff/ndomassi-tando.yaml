@@ -62,7 +62,7 @@ bibtex: TEMPLATE.bib
 #
 # If you have an ORCID ID ("NNNN-NNNN-NNNN-NNNN")
 #
-orcid: XXXXXXX
+orcid: 0000-0001-1234-123X
 #
 # The name of an image file in the "img" subdirectory, no more than
 # about 400 pixels wide and less than 200 KB in file size.
