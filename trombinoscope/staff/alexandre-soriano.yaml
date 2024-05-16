@@ -1,0 +1,44 @@
+---
+staffname: Alexandre Soriano
+
+type: staff
+
+active: true
+
+email: alexandre.soriano@cirad.fr
+
+phone: xxx-xxx xx xx
+
+city:
+  - Montpellier
+
+workplace: AGAP Unit
+
+affiliation: CIRAD
+
+facility: SouthGreen
+
+category:
+  - development
+  - software
+  - annotation
+  - genomics
+
+bibtex: TEMPLATE.bib
+
+orcid: 0000-0003-1406-4606
+
+image: alexandre.soriano.jpg
+
+keywords:
+  - rnaseq
+  - genome annotation
+  - comparative genomics
+  - snakemake
+  - reproductible research
+  - web developpment
+
+role: Bioinformatician
+
+bio:
+  WIP
