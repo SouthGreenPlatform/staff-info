@@ -47,7 +47,9 @@ facility: SouthGreen
 # proteomics, software, statistics, structure, systems biology,
 # dataservices, administration
 #
-category: management
+category: 
+ - genomics
+ - management
 #
 # Page to link to from your profile page (rarely used).
 #
