@@ -11,7 +11,7 @@
 #
 # Your real name, the exact way that you want it displayed.
 #
-staffname: Jhon Doe
+staffname: Manuel Ruiz
 #
 # Most people will have "type: staff", but some may be "affiliate".
 #
@@ -19,11 +19,11 @@ type: staff
 #
 # Change to "true"
 #
-active: false
+active: true
 #
 # Your email address.
 #
-email: jhon.doe@southgreen.fr
+email: manuel.ruiz@cirad.fr
 #
 phone: xxx-xxx xx xx
 #
@@ -32,22 +32,22 @@ phone: xxx-xxx xx xx
 # in different places.
 #
 city:
-  - Paris
+  - Montpellier
 #
-workplace: XXX University
+workplace: CIRAD Montpellier
 #
-affiliation: CNRS/INRAE/etc
+affiliation: CIRAD
 #
 # The SouthGreen facility that you are part of.
 #
-facility: iTrop
+facility: SouthGreen
 #
 # Current categories (pick one):
 # annotation, development, genomics, management, metabolomics,
 # proteomics, software, statistics, structure, systems biology,
 # dataservices, administration
 #
-category: development
+category: management
 #
 # Page to link to from your profile page (rarely used).
 #
@@ -60,21 +60,21 @@ bibtex: TEMPLATE.bib
 #
 # If you have an ORCID ID ("NNNN-NNNN-NNNN-NNNN")
 #
-orcid: 0000-0001-1234-123X
+orcid: 0000-0001-8153-276X
 #
 # The name of an image file in the "img" subdirectory, no more than
 # about 400 pixels wide and less than 200 KB in file size.
 #
-image: jhon-doe.png
+image: manuel-ruiz.jpg
 #
 # A list of lowercase keywords relevant to you.
 #
 keywords:
-  - genomics
-  - cancer genomics
-  - unix
-  - r
-  - rnaseq
+  - knowledge representation
+  - interoperability
+  - database
+  - plant genomics
+  
 #
 # "role:" is the role that you play within your infrastructure.
 #
