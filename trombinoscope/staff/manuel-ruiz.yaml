@@ -47,9 +47,9 @@ facility: SouthGreen
 # proteomics, software, statistics, structure, systems biology,
 # dataservices, administration
 #
-category: 
- - genomics
- - management
+category:
+  - genomics
+  - management
 #
 # Page to link to from your profile page (rarely used).
 #
@@ -76,7 +76,7 @@ keywords:
   - interoperability
   - database
   - plant genomics
-  
+
 #
 # "role:" is the role that you play within your infrastructure.
 #
