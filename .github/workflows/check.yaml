@@ -1,6 +1,6 @@
 name: check
 
-on: push
+on: [push, pull_request]
 #  push:
 #    paths:
 #      - "trombinoscope/staff/**"
